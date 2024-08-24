@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(to right,#1a020fe1,#f3127bfd);
+}
+
+
+
+
+form{
+    margin-top: 65px;
+    border: 2px solid black;
+    width: 35%;
+    height: 450px;
+    background-color: rgb(241, 46, 104);
+    color: white;
+    font-size: 35px;
+   padding-top: 55px;
+}
+input{
+    width: 75%;
+    background: transparent;
+    border-radius: 25PX;
+    min-height: 35PX;
+    border-color: rgba(255, 255, 255, 0.897);
+
+
+
+}
+input:hover{
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.897);;
+}
+button{
+    width: 185px;
+    height: 55px;
+    border-radius: 25px;
+    color: rgb(241, 46, 104);
+    font-size: 25px;
+}
+button:hover{
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.897);
+}
+a{
+    text-decoration: none;
+    color: rgb(241, 46, 104);
+}

@@ -1,0 +1,134 @@
+
+
+
+
+
+ul{
+    display: inline;
+    margin-left: 75%;
+    word-spacing: 10px;
+  
+}
+li{
+    display: inline;
+    text-align: left;
+    font-size: 20px;
+   
+    
+    
+}
+h1{
+    display: inline;
+    margin-left: 45%;
+    font-size: 45px;
+    
+}
+.one{
+    background-color: rgb(241, 46, 104);
+    height: 140px;
+    color: white;
+}
+.logo{
+    position: relative;
+    top: -137px;
+    width: 10%;
+    border-radius: 50%;
+}
+h2{
+    margin-left:15%;
+    font-size: 45px;
+}
+button{
+    height: 45px;
+    width: 145px;
+    margin-left: 30%;
+    margin-top: -120px;
+}
+.two{
+    display: flex;
+}
+.four{
+    margin-left: 400px;
+    width: 500px;
+}
+button{
+    background-color:  rgb(241, 46, 104);
+    color: white;
+    border: rgb(241, 46, 104);
+    border-radius: 25px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.open{
+    position: relative;
+    display: inline;
+    left: 205px;
+    top: 30px;
+}
+
+.a{
+    background-color:rgba(199, 194, 194, 0.87) ;
+    padding-top: 35px;
+
+}
+td{
+    margin-left: -25px;
+    word-spacing: 8px;
+
+}
+th{
+    font-size: 20px;
+    position: relative;
+    left: -85px;
+    word-spacing: 10px;
+}
+table{
+    background-color: rgba(199, 194, 194, 0.267);
+    width: 100%;
+
+
+}
+.a{
+    word-spacing: 10px;
+}
+h4{
+    position: relative;
+    left: 60px;
+    font-size: 20px;
+    display:inline ;
+}
+.icon{
+    left: 405px;
+}
+.b{
+    display: inline;
+    position: relative;
+    left: 42%;
+    top: -90px;
+    word-spacing: 20px;
+}
+h5{
+    position: relative;
+    left: 55% ;
+    top: -145px;
+    font-size: 20px;
+    display: inline;
+}
+footer{
+    height: 0px;
+}
+h6{
+    display: inline;
+    position: relative;
+    margin-left: 80%;
+    top: -165px;
+    font-size: 20px;
+}
+.c{
+    display: inline;
+    position: relative;
+    margin-left: 1000px;
+    top: -120px;
+}
